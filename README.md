@@ -6,12 +6,13 @@ Pagina criada no curso da Code Booster Front-end
 #### *Proposta foi desenvolver uma página clone da Hostinger, para estudo de HTML5, CSS, SASS e sendo totamente responsiva.*
 
 
-> Autor: 
+> Aluno: 
 > Othon Medeiros
 
 > Professor: 
 > Willian Moreira (Code Booster)
-> ![Willian Moreira (Code Booster)](www.google.com)
+
+> ![](https://codeboost.com.br/)
 
 
 
