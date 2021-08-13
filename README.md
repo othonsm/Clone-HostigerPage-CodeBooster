@@ -12,7 +12,7 @@ Pagina criada no curso da Code Booster Front-end
 > Professor: 
 > Willian Moreira (Code Booster)
 
-> ![](https://codeboost.com.br/)
+>https://codeboost.com.br/
 
 
 
