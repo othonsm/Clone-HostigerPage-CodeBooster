@@ -7,10 +7,11 @@ Pagina criada no curso da Code Booster Front-end
 
 
 > Autor: 
-> - Othon Medeiros
+> Othon Medeiros
 
 > Professor: 
-> - Willian
+> Willian Moreira (Code Booster)
+> ![Willian Moreira (Code Booster)](https://github.com/othonsm/Clone-HostigerPage-CodeBooster/blob/main/img/page.jpeg)
 
 
 
