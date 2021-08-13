@@ -136,7 +136,8 @@
             }
         }
         .card-featured {
-        width: 28rem;
+        width: 100%;
+        max-width: 28rem;
         height: 32.3rem;
         background: rgba(197, 190, 220, 0.1);
         border-radius: 1.2rem;
@@ -159,5 +160,37 @@
             padding-left: 2rem;
         }
    }
-   
+   @include responsive(991px){
+    .content {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        .card-featured {
+            max-width: 100%;
+            height: auto;
+            padding: 30px;
+            @include flex(column, center, centro);
+            .info {
+                max-width: 100%;
+                h4, p {
+                    text-align: center;
+                }
+            }
+        } 
+    }
+   }
+   @include responsive(768px){
+       padding-top: 10rem;
+       padding-bottom: 5rem;
+       .top {
+           flex-direction: column;
+           h2 {
+               text-align: center;
+               margin-bottom: 2rem;
+           }
+       }
+       .content {
+           gap: 2.5rem;
+       }
+   }
 }
