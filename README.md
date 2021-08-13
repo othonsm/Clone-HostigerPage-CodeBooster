@@ -7,13 +7,15 @@
 
 #### Proposta foi desenvolver uma página clone da Hostinger, para estudo de HTML5, CSS, SASS e sendo totamente responsiva. 
 
-![](https://github.com/othonsm/Lord_Barber/blob/master/publicidade.jpg)
+![](https://github.com/othonsm/Clone-HostigerPage-CodeBooster/blob/main/img/page.jpeg)
+
+
+> Autor: 
+> - Othon Medeiros
 
 > Professor: 
 > - Willian
 
-> Autor: 
-> - Othon Medeiros
 
 
 
