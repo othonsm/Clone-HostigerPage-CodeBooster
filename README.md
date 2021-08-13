@@ -11,7 +11,7 @@ Pagina criada no curso da Code Booster Front-end
 
 > Professor: 
 > Willian Moreira (Code Booster)
-> ![Willian Moreira (Code Booster)](https://github.com/othonsm/Clone-HostigerPage-CodeBooster/blob/main/img/page.jpeg)
+> ![Willian Moreira (Code Booster)](www.google.com)
 
 
 
