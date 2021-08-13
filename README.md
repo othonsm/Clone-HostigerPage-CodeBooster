@@ -1,2 +1,18 @@
 # Clone-HostigerPage-CodeBooster
- Pagina clone do curso Frontend Codebooster
+
+### 
+
+# App Lord_Barber
+## Pagina criada no curso da Code Booster Front-end
+
+#### Proposta foi desenvolver uma página clone da Hostinger, para estudo de HTML5, CSS, SASS e sendo totamente responsiva. 
+
+
+
+> Autores : 
+> - Othon Medeiros
+
+
+![](https://github.com/othonsm/Lord_Barber/blob/master/publicidade.jpg)
+
+
